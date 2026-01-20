@@ -1,0 +1,37 @@
+# Keil generated files
+OBJ/
+Listings/
+DebugConfig/
+
+# Output binaries
+*.hex
+*.bin
+*.axf
+*.elf
+*.map
+*.o
+*.d
+*.crf
+*.htm
+*.sct
+*.lnp
+*.dep
+
+# User specific files
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+
+# Backup files
+*.bak
+*.orig
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+Thumbs.db
+.DS_Store
