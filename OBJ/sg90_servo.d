@@ -1,0 +1,15 @@
+..\obj\sg90_servo.o: ..\other\sg90_servo.c
+..\obj\sg90_servo.o: ..\other\sg90_servo.h
+..\obj\sg90_servo.o: ..\SYSTEM\sys\sys.h
+..\obj\sg90_servo.o: ..\USER\stm32f10x.h
+..\obj\sg90_servo.o: ..\CORE\core_cm3.h
+..\obj\sg90_servo.o: E:\kile\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sg90_servo.o: ..\USER\system_stm32f10x.h
+..\obj\sg90_servo.o: ..\USER\stm32f10x_conf.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\sg90_servo.o: ..\USER\stm32f10x.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\sg90_servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
